@@ -42,8 +42,8 @@ pseudonymous split-audit keys, not public participant identifiers.
 
 ## Release status
 
-The initial GitHub reproducibility package has passed its privacy, manifest,
-checksum, compilation, and focused test checks. The next archival step is to
-create a versioned GitHub release and archive that exact release in Zenodo.
+Version `v0.1.0` has passed its privacy, manifest, checksum, compilation, and
+focused test checks. The next archival step is to create a GitHub Release from
+the `v0.1.0` tag and archive that exact release in Zenodo.
 
 Do not cite a Zenodo DOI until that archival step is complete.
