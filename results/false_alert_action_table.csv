@@ -1,0 +1,9 @@
+action,category,count,percentage
+adl_generic,clear_adl,26,0.37681159420289856
+kneel,clear_adl,11,0.15942028985507245
+sit_down,fall_like,10,0.14492753623188406
+bend_recover,clear_adl,8,0.11594202898550725
+other_normal,clear_adl,6,0.08695652173913043
+unannotated,unannotated_or_other,5,0.07246376811594203
+lie_down,fall_like,2,0.028985507246376812
+walk,clear_adl,1,0.014492753623188406

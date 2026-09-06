@@ -1,0 +1,8 @@
+# Generated from the validated local training environment (Python 3.8/Windows).
+# K230 nncase packages are installed separately in the fall-k230 environment.
+numpy==1.24.4
+opencv-python==5.0.0.93
+torch==2.4.1
+ultralytics==8.4.103
+tqdm==4.64.1
+onnx==1.17.0

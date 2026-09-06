@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-09-06T11:50:26.929986+00:00",
+  "status": "PASS",
+  "privacy_or_protocol_issues": [],
+  "publication_blockers": [],
+  "scanned_file_count": 55,
+  "v2_manifest_rows": 284,
+  "v2_cross_fold_public_families": 0,
+  "note": "Author names in CITATION.cff are intentional publication metadata."
+}

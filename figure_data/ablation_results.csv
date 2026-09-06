@@ -1,0 +1,3 @@
+variant,feature_profile,input_dim,paired_runs,expected_runs,ablation_complete_runs,ablation_pass_runs,ablation_far_exceeded_runs,ablation_infeasible_runs,delta_recall_050,ci_low,ci_high,eligible,status,bootstrap_reps,bootstrap_unit
+no_physics,paper_raw_v1,68,17,30,24,7,17,6,0.039222498294015605,-0.04510890894372357,0.11223644436745187,True,complete,1000,paired seed-fold run differences
+no_quality,paper_physics_no_quality_v1,76,14,30,18,4,14,12,0.0529081621799987,-0.0696781683738538,0.16733523089934013,True,complete,1000,paired seed-fold run differences

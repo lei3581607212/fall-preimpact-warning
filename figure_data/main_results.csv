@@ -1,0 +1,7 @@
+method,horizon_seconds,recall,ci_low,ci_high,fall_events,eligible,run_count,ci_method
+v2 all complete outer evaluations,0.25,0.7517328292375551,0.6590579710144928,0.8374448645242597,1587,True,20,mean of event-count-bootstrap run intervals
+v2 all complete outer evaluations,0.5,0.499054820415879,0.39697542533081287,0.6005198487712665,1587,True,20,mean of event-count-bootstrap run intervals
+v2 all complete outer evaluations,1.0,0.11909262759924386,0.05671077504725898,0.18842155009451794,1587,True,20,mean of event-count-bootstrap run intervals
+v2 outer FAR-feasible evaluations,0.25,0.7008130081300813,0.6047967479674797,0.7935365853658536,615,True,8,mean of event-count-bootstrap run intervals
+v2 outer FAR-feasible evaluations,0.5,0.44227642276422763,0.3382113821138211,0.5447560975609755,615,True,8,mean of event-count-bootstrap run intervals
+v2 outer FAR-feasible evaluations,1.0,0.0991869918699187,0.03902439024390244,0.16585365853658537,615,True,8,mean of event-count-bootstrap run intervals

@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software or its reproducibility materials, please cite the associated paper."
+title: "Causal Multi-Horizon Pose Transformer for Fall Pre-Impact Warning"
+type: software
+version: "0.1.0-rc1"
+date-released: 2026-09-06
+authors:
+  - family-names: Lei
+    given-names: Leitao
+  - family-names: Jiang
+    given-names: Xin
+  - family-names: Lv
+    given-names: Bingxin
+  - family-names: Yan
+    given-names: Lesong
+  - family-names: Qiu
+    given-names: Yuhao
+  - family-names: Hu
+    given-names: Xinlei
+  - family-names: Jiang
+    given-names: Xiaoyu
+  - family-names: Cheng
+    given-names: Kun
+repository-code: "https://github.com/lei3581607212/fall-preimpact-warning"
+abstract: >-
+  Reproducibility code and aggregate artifacts for family-disjoint nested
+  evaluation of causal pose-based fall pre-impact warning under a strict
+  development-set false-alarm budget.
+keywords:
+  - fall pre-impact warning
+  - human pose
+  - causal transformer
+  - nested cross-validation
+  - reproducibility

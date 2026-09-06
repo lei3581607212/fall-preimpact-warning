@@ -1,0 +1,44 @@
+{
+  "release_status": "local_release_candidate",
+  "protocol": "paper_family_disjoint_v2",
+  "data": {
+    "windows": 47381,
+    "physical_groups": 284,
+    "source_events": 530,
+    "known_cross_fold_physical_families": 0,
+    "excluded_alias_groups": 15
+  },
+  "evaluation": {
+    "seeds": [0, 7, 13, 21, 42, 123],
+    "outer_folds": [0, 1, 2, 3, 4],
+    "far_budget": 0.08333333333333333,
+    "policy_selection_split": "development_only",
+    "bootstrap_repetitions": 1000
+  },
+  "paper_teacher": {
+    "terminal_runs": 30,
+    "outer_evaluated_runs": 20,
+    "development_infeasible_runs": 10,
+    "outer_far_feasible_runs": 8,
+    "pooled_evaluated_far": 0.12825278810408922,
+    "pooled_evaluated_recall_at_0.25s": 0.7517328292375551,
+    "pooled_evaluated_recall_at_0.50s": 0.499054820415879,
+    "pooled_evaluated_recall_at_1.00s": 0.11909262759924386,
+    "pooled_evaluated_mean_lead_seconds": 0.7250922006472857,
+    "pooled_evaluated_median_lead_seconds": 0.5384352504677457
+  },
+  "completed_analyses": [
+    "matched_feature_ablation",
+    "false_alert_action_reconstruction",
+    "tcnte_matched_baseline",
+    "pure_tcn_matched_baseline"
+  ],
+  "claim_boundary": "Paired recall confidence intervals cross zero; no stable superiority over matched baselines or public SOTA is claimed.",
+  "excluded_material": [
+    "raw_media",
+    "pose_arrays",
+    "model_checkpoints",
+    "participant_identifiers",
+    "local_absolute_paths"
+  ]
+}
