@@ -42,8 +42,8 @@ pseudonymous split-audit keys, not public participant identifiers.
 
 ## Release status
 
-Version `v0.1.0` has passed its privacy, manifest, checksum, compilation, and
+Version `v0.1.1` has passed its privacy, manifest, checksum, compilation, and
 focused test checks. The next archival step is to create a GitHub Release from
-the `v0.1.0` tag and archive that exact release in Zenodo.
+the `v0.1.1` tag and archive that exact release in Zenodo.
 
 Do not cite a Zenodo DOI until that archival step is complete.
