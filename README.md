@@ -1,5 +1,7 @@
 # Fall Pre-Impact Warning: paper reproducibility release candidate
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22538536.svg)](https://doi.org/10.5281/zenodo.22538536)
+
 This repository contains reviewer-facing, privacy-screened code and data
 products for the family-disjoint v2 paper protocol.
 
@@ -42,8 +44,9 @@ pseudonymous split-audit keys, not public participant identifiers.
 
 ## Release status
 
-Version `v0.1.1` has passed its privacy, manifest, checksum, compilation, and
-focused test checks. The next archival step is to create a GitHub Release from
-the `v0.1.1` tag and archive that exact release in Zenodo.
+Version `v0.1.1` passed its privacy, manifest, checksum, compilation, and
+focused test checks and has been archived in Zenodo.
 
-Do not cite a Zenodo DOI until that archival step is complete.
+The archived `v0.1.1` release is available at
+<https://doi.org/10.5281/zenodo.22538537>. The all-versions concept DOI is
+<https://doi.org/10.5281/zenodo.22538536>.

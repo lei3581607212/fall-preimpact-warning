@@ -4,6 +4,7 @@ title: "Causal Multi-Horizon Pose Transformer for Fall Pre-Impact Warning"
 type: software
 version: "0.1.1"
 date-released: 2026-09-06
+doi: 10.5281/zenodo.22538537
 authors:
   - family-names: Lei
     given-names: Leitao
@@ -22,6 +23,7 @@ authors:
   - family-names: Cheng
     given-names: Kun
 repository-code: "https://github.com/lei3581607212/fall-preimpact-warning"
+url: "https://doi.org/10.5281/zenodo.22538537"
 abstract: >-
   Reproducibility code and aggregate artifacts for family-disjoint nested
   evaluation of causal pose-based fall pre-impact warning under a strict

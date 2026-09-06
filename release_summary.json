@@ -1,5 +1,8 @@
 {
-  "release_status": "local_release_candidate",
+  "release_status": "published_and_archived",
+  "github_release": "https://github.com/lei3581607212/fall-preimpact-warning/releases/tag/v0.1.1",
+  "zenodo_version_doi": "10.5281/zenodo.22538537",
+  "zenodo_concept_doi": "10.5281/zenodo.22538536",
   "protocol": "paper_family_disjoint_v2",
   "data": {
     "windows": 47381,
