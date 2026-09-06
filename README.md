@@ -1,4 +1,4 @@
-# Fall Pre-Impact Warning: paper reproducibility release candidate
+# Fall Pre-Impact Warning Paper Reproducibility Package
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22538536.svg)](https://doi.org/10.5281/zenodo.22538536)
 
